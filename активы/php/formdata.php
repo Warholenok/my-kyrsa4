@@ -2,7 +2,7 @@
 $Login=$_POST['Login'];
 $Adress=$_POST['Adress'];
 $Telephone=$_POST['Telephone'];
-$to="E-mail отправителя";
+$to="s3nvidiabtk@gmail.com";
 $subject="Тема: Обратная связь";
 $mestext="Имя: ".$Login.
 		 "\nE-mail: ".$Adress.
