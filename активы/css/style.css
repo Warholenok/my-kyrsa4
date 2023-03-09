@@ -1388,7 +1388,7 @@ section#rrcatalog #rкурс:checked ~ .wcategories #rкурс-tab{
 }
 
 section#rrcatalog #qкурс:checked ~ .panels #qкурс-container,
-section#rrcatalog #wкурс:checked ~ .fs #wкурс-container,
+section#rrcatalog #wкурс:checked ~ .panels #wкурс-container,
 section#rrcatalog #eкурс:checked ~ .panels #eкурс-container, 
 section#rrcatalog #rкурс:checked ~ .panels #rкурс-container{
     display: flex;
